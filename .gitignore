@@ -1,0 +1,38 @@
+# Node.js (React)
+node_modules/
+build/
+dist/
+.env
+.npmrc
+.yarn*
+
+# Python (Flask)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.env
+instance/
+
+# Logs and local environment files
+logs/
+*.log
+debug.log
+.DS_Store
+
+# IDE and Editor settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Coverage and testing
+coverage/
+*.cover
+.cache/
+.pytest_cache/
+
+# Database and other sensitive files
+*.sqlite3
+*.db
